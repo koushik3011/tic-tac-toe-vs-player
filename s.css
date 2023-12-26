@@ -1,0 +1,36 @@
+.board{
+    width: 200px;
+    height: 200px;
+    font-size: 150px;
+    padding: 0px;
+    float: left;
+    background-color:whitesmoke;
+
+}
+
+.edge{
+
+}
+.container{
+  width: 650px;
+  margin-left: 30%;
+}
+
+h1{
+    display: inline;
+}
+#start{
+    text-align: center;
+    background-color: #DA0037;
+    margin-top: 10px;
+    font-size: 50px;
+    color: beige;
+    text-shadow:3px  4px 10px black;
+    
+    
+}
+body{
+    background-color: #444444;
+    color: beige;
+    text-align: center;
+}
